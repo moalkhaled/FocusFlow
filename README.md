@@ -82,19 +82,6 @@ cd FocusFlow
 2. Update or delete existing tasks.
 3. Logout when you're done.
 
-## Screenshots
-
-Here are some screenshots of the application:
-
-### Signup Page
-![Signup Page](screenshots/signup.png)
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
 ## Contributing
 
 We welcome contributions! Please follow these steps:
